@@ -22,3 +22,6 @@ Creative web developer dedicated to building and optimizing the performance of u
 11. Information Architecture
 12. Multimedia Design
 13. Professional Experience
+
+-- ABC AGENCY, INC. - Sometown, NY • Web Developer, 2013 to Present --
+
